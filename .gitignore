@@ -1,0 +1,7 @@
+# ignore files and directories added by eclipse project management
+.project
+.settings/
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
